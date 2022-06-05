@@ -1,0 +1,30 @@
+@media (min-width: 320px) and (max-width: 700px) { 
+    .navbar{
+        background-color: var(--color-accent);
+        width: 100%;
+        position: relative;
+    }
+    .caption{
+        padding: 0 40px;
+    }
+    .caption-heading{
+        font-size: 2em;
+        line-height: 1.4em;
+    }
+    .section-title{
+        font-size: 1.6em;
+    }
+    .testimonial{
+        max-width: 100%;
+    }
+    .contact-form {
+        max-width: initial;
+    }
+    .foot-bottom-text,
+    .footer .content-right{
+        text-align: center;
+    }
+ .services .box-image{
+     height: 300px;
+ }
+}
